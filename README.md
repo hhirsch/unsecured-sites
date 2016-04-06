@@ -11,3 +11,6 @@ Password form, reset, login and session unencrypted.
 
 ## 10fastfingers.com
 Password form, reset, login and session unencrypted.
+
+## artofmemory.com
+Password form, reset, login and session unencrypted.
