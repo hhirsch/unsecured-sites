@@ -6,7 +6,7 @@ Password form, reset, login and session unencrypted.
 ## fold.it
 Password form, reset, login and session unencrypted.
 
-  They will remove any post in the forums that is informing about the issue.
+  They removed a post about the issue in the forum.
 
 ## indiedb.com
 Password form, reset, login and session unencrypted.
