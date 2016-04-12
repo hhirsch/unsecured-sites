@@ -5,8 +5,8 @@ Password form, reset, login and session unencrypted.
 
 ## fold.it
 Password form, reset, login and session unencrypted.
-
-  They removed a post about the issue in the forum.
+- They removed a post about the issue in the forum.
+- Their software saves unencrypted passwords on the hard drive.
 
 ## indiedb.com
 Password form, reset, login and session unencrypted.
