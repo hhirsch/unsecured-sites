@@ -19,3 +19,6 @@ Password form, reset, login and session unencrypted.
 
 ## lgdb.org
 Password form, reset, login and session unencrypted.
+
+# learning.tergar.org
+Password form, reset, login and session unencrypted.
