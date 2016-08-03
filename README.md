@@ -17,5 +17,8 @@ Password form, reset, login and session unencrypted.
 ## artofmemory.com
 Password form, reset, login and session unencrypted.
 
-# learning.tergar.org
+## learning.tergar.org
+Password form, reset, login and session unencrypted.
+
+## www.scrabbin.com
 Password form, reset, login and session unencrypted.
