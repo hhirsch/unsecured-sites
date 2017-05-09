@@ -1,5 +1,8 @@
 # Unsecure Sites
 List of sites with security problems
+## retroachievements.org
+Password form, reset, login and session unencrypted.
+
 ## blendswap.com 
 Password form, reset, login and session unencrypted.
 
