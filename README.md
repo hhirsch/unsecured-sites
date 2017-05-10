@@ -2,6 +2,7 @@
 List of sites with security problems
 ## retroachievements.org
 Password form, reset, login and session unencrypted.
+- They removed a post about the issue in the forum.
 
 ## blendswap.com 
 Password form, reset, login and session unencrypted.
