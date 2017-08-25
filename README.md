@@ -26,3 +26,7 @@ Password form, reset, login and session unencrypted.
 
 ## www.scrabbin.com
 Password form, reset, login and session unencrypted.
+
+## www.taijizen.com
+
+Password form, reset, login and session unencrypted.
