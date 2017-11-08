@@ -1,5 +1,9 @@
 # Unsecure Sites
 List of sites with security problems
+
+## http://www.buddhaland.de
+Password form, reset, login and session unencrypted.
+
 ## retroachievements.org
 Password form, reset, login and session unencrypted.
 - They removed a post about the issue in the forum.
