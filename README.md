@@ -1,4 +1,4 @@
-# Unsecure Sites
+# Unsecured Sites
 List of sites with security problems
 
 ## http://www.buddhaland.de
