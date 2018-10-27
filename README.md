@@ -1,10 +1,10 @@
 # Unsecured Sites
 List of sites with security problems
 
-## http://forums.aiscripters.com
+## forums.aiscripters.com
 Password form, reset, login and session unencrypted.
 
-## http://www.buddhaland.de
+## www.buddhaland.de
 Password form, reset, login and session unencrypted.
 
 ## retroachievements.org
